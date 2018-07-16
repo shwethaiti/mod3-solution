@@ -1,7 +1,7 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: #3636;
+	background-color: #4adbcf;
 	font-family: 'Oxygen', sans-serif;
 }
 
@@ -67,16 +67,13 @@ body {
 	border: 1px solid #ffffff;
 }
 
-.PageName {
-	text-align: center;
-	color: #990000;
-}
 
 #main-content h1{
  	text-align: center; 
  	font-size: 2.1em;
     margin-bottom: 40px;
     color: #001a00;
+
  }
 
 
