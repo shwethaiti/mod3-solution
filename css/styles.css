@@ -13,12 +13,6 @@ body {
 	padding-bottom: 10px;
 }
 
-#logo-img {
-	background: url('/css/logo.jpg') no-repeat;
-	width: 126px;
-	height: 120px;
-	margin: 10px 15px 10px 0;
-}
 
 .navbar-brand {
 	padding-top: 25px;
