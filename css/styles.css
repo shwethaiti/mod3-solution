@@ -1,7 +1,7 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: #4adbcf;
+	background-color: #f25641;
 	font-family: 'Oxygen', sans-serif;
 }
 
@@ -67,7 +67,8 @@ h1{
  	text-align: center; 
  	font-size: 2.1em;
     margin-bottom: 40px;
-    color: #001a00;
+    color: solid #001a00;
+
 
  }
 
@@ -86,15 +87,15 @@ h1{
 }
 
  .container1{
- 	background-color: #d6132d;
+ 	background-color: #12f1ab;
  }
 
  .container2{
- 	background-color: #0b4711;
+ 	background-color: #f2d813;
  }
 
  .container3{
- 	background-color: #d8a413;
+ 	background-color: #12f1ab;
  }
 
 
